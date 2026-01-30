@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PortAudioCaptureApp/PortAudioCaptureApp.vcxproj" Id="d1fc3033-db21-4d32-b66c-b7ceeb56f990" />
+</Solution>
